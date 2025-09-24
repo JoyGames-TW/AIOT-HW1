@@ -84,7 +84,7 @@ with col2:
 
     # Label the worst points
     for i in worst_indices:
-        ax.annotate(f'Worst {list(worst_indices).index(i)+1}', (X_test.iloc[i], y_test.iloc[i]), 
+        ax.annotate(f'Outlier {list(worst_indices).index(i)+1}', (X_test.iloc[i], y_test.iloc[i]), 
                     textcoords="offset points", xytext=(0,10), ha='center',
                     bbox=dict(boxstyle="round,pad=0.3", facecolor="white", edgecolor="black", alpha=0.8),
                     color='blue')

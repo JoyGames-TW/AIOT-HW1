@@ -42,6 +42,12 @@ Date: 2025年9月24日
 ## 3.9 Improved labeling with box and non-black color for better visibility
 Date: 2025年9月24日
 
+## 3.10 Highlighted worst points with different color (orange with red edges)
+Date: 2025年9月25日
+
+## 3.11 Changed label from "Worst" to "Outlier"
+Date: 2025年9月25日
+
 ## 4.1 Pushed project to GitHub repository https://github.com/JoyGames-TW/AIOT-HW1
 Date: 2025年9月24日
 
@@ -58,4 +64,7 @@ Date: 2025年9月25日
 Date: 2025年9月25日
 
 ## 4.6 Renumber log entries to date-based format (24.x, 25.x)
+Date: 2025年9月25日
+
+## 4.7 Reorganize log entries into logical groups (1.x setup, 2.x model, 3.x streamlit, 4.x deployment)
 Date: 2025年9月25日
