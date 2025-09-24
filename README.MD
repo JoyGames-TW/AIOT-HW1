@@ -8,6 +8,10 @@
 
 2. **互動式 Streamlit 應用程式 (`streamlit_app.py`)**：提供圖形化介面，讓用戶可以即時調整參數生成合成數據，訓練模型，並視覺化結果。
 
+## Demo
+
+體驗線上 Demo：[https://aiot-hw1.streamlit.app/](https://aiot-hw1.streamlit.app/)
+
 ## 功能特色
 
 ### 原始腳本功能
