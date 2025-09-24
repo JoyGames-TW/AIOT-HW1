@@ -67,7 +67,7 @@ with col2:
     # Plot
     st.header("Data and Prediction")
     fig, ax = plt.subplots()
-    ax.scatter(X_test, y_test, label="Actual")
+    ax.scatter(X_test, y_test, label="Actual", alpha=0.6)
     # Predict on test set
     best_model = LinearRegression()
     best_model.fit(X_train_scaled, y_train)
@@ -78,6 +78,9 @@ with col2:
     # Calculate residuals and find top 5 worst points
     residuals = np.abs(y_test - y_pred_plot)
     worst_indices = np.argsort(residuals)[-5:]  # Top 5 largest residuals
+
+    # Highlight worst points in different color
+    ax.scatter(X_test.iloc[worst_indices], y_test.iloc[worst_indices], color='orange', s=50, edgecolors='red', linewidth=2, label="Worst Points")
 
     # Label the worst points
     for i in worst_indices:
