@@ -1,43 +1,55 @@
 # Log
 
-## 1.1 Created Log.md
+## 1 Created Log.md
 Date: 2025年9月24日
 
-## 1.2 Created requirements.txt
+## 2 Created requirements.txt
 Date: 2025年9月24日
 
-## 1.3 Executed app.py
+## 3 Executed app.py
 Date: 2025年9月24日
 
-## 1.4 Installed Python packages (numpy, pandas, scikit-learn, joblib)
+## 4 Installed Python packages (numpy, pandas, scikit-learn, joblib)
 Date: 2025年9月24日
 
-## 1.5 Executed app.py successfully
+## 5 Executed app.py successfully
 Date: 2025年9月24日
 
-## 1.6 Converted project to Streamlit with GUI for parameters n, a, noise
+## 6 Converted project to Streamlit with GUI for parameters n, a, noise
 Date: 2025年9月24日
 
-## 1.7 Added matplotlib to requirements.txt and installed it
+## 7 Added matplotlib to requirements.txt and installed it
 Date: 2025年9月24日
 
-## 1.8 Ran Streamlit app
+## 8 Ran Streamlit app
 Date: 2025年9月24日
 
-## 1.9 Modified Streamlit app layout to left-right columns
+## 9 Modified Streamlit app layout to left-right columns
 Date: 2025年9月24日
 
-## 1.10 Adjusted column widths: left narrow, right wide
+## 10 Adjusted column widths: left narrow, right wide
 Date: 2025年9月24日
 
-## 1.11 Adjusted column widths to [0.3, 0.7] for better spacing
+## 11 Adjusted column widths to [0.3, 0.7] for better spacing
 Date: 2025年9月24日
 
-## 1.12 Removed Run Model button and made plots update automatically with parameter changes
+## 12 Removed Run Model button and made plots update automatically with parameter changes
 Date: 2025年9月24日
 
-## 1.13 Added labeling of the top 5 worst points in the plot
+## 13 Added labeling of the top 5 worst points in the plot
 Date: 2025年9月24日
 
-## 1.14 Improved labeling with box and non-black color for better visibility
+## 14 Improved labeling with box and non-black color for better visibility
 Date: 2025年9月24日
+
+## 15 Pushed project to GitHub repository https://github.com/JoyGames-TW/AIOT-HW1
+Date: 2025年9月24日
+
+## 16 Created detailed README.MD report
+Date: 2025年9月24日
+
+## 17 Pushed README.MD to GitHub
+Date: 2025年9月24日
+
+## 18 Added demo URL to README and pushed
+Date: 2025年9月25日
